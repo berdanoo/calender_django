@@ -1,4 +1,4 @@
-# 🗓️ Django Kalender mit Benutzerkonten
+#  Django Kalender mit Benutzerkonten
 
 Dies ist eine Webanwendung auf Basis von Django, bei der sich Nutzer registrieren und anmelden können. Nach dem Login sollen individuelle Inhalte (z. B. ein Kalender oder persönliche Daten) angezeigt werden. Ziel ist es, später persönliche Termine zu verwalten und darzustellen.
 
@@ -16,6 +16,7 @@ Dies ist eine Webanwendung auf Basis von Django, bei der sich Nutzer registriere
    ```bash
    python -m venv env
    .\env\Scripts\activate  # für Windows
+   ```
 
 2. Django installieren:
    pip install django
