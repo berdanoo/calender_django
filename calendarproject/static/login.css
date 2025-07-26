@@ -1,0 +1,50 @@
+   body{
+    background-color:rgb(255, 254, 252);
+   }
+  .login {
+        background-color: white;
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        font-family: sans-serif;
+    }   
+
+   .login label {
+        display: block;
+        margin-bottom: 4px;
+        font-weight: bold;
+    }
+
+    .login input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 12px;
+        box-sizing: border-box;
+    }
+
+    .login {
+        max-width: 300px;
+        margin: 40px auto;
+        font-family: sans-serif;
+    }
+    .login button{
+        display: block;
+        max-width: 100px;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+    .login button:hover{
+        background-color:blanchedalmond;
+        
+    }
+    .login a{
+        margin: 5px;
+        color: black;
+    }
+
+    .login a:hover{
+        color:blue;
+
+    }
